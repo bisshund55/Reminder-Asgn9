@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/src/main/assets"/><source path="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/src/debug/assets"/></dataSet></merger>

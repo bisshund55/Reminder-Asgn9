@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sun Jun 04 21:52:05 PDT 2017
+2.base=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57742a35fd5fdace483f0ce1e5b026b31bf9a16d
+5.file=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=DEX
+4.base=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1df1b6c69456a6de33945f6e8d9a81eccbacdc6b/classes.dex
+5.base=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/res/menu/reminder.xml
+1.set=ANDROID_RESOURCE
+2.file=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57742a35fd5fdace483f0ce1e5b026b31bf9a16d/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1df1b6c69456a6de33945f6e8d9a81eccbacdc6b
+3.file=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_reminder.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+0.set=DEX

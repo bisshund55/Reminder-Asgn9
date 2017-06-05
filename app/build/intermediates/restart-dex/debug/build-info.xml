@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    build-mode="COLD"
+    density="420dpi"
+    format="10"
+    plugin-version="2.3.1"
+    timestamp="1496641190418"
+    token="-4274699596761202618"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="53" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="10" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1496635304529"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1496638322765"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1496641190418"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,4 @@
+#Sun Jun 04 22:39:51 PDT 2017
+base.0=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/michelle/AndroidStudioProjects/ch11_ex4_Reminder/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
